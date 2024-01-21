@@ -1,21 +1,24 @@
-<center><h1>Simple Deadfish Interpreter.</h1></center>
+# Simple Deadfish Interpreter.
 
-<b>Deadfish<b> is a simple language that only has 4 instructions:<br>
+Deadfish is a simple language that only has 4 instructions:
 1. 'i' is responsible for incrementing by one.
 2. 'd' is responsible for decrementing by one.
 3. 's' is responsible for squaring the number.
 4. 'o' is responsible for printing the output.
 
 to run the code:
-<code>cd deadfish_interpreter</code>
-<code>cargo run</code><br>
+```
+cd deadfish_interpreter/
+cargo run/
+```
 
 try running these instructions:
-<code>iiodddoisoisoiso</code>
-<br>It should output:
-<code>2<br>
-0<br>
-1<br>
-4<br>
-25<br>
-</code>
+```iiodddoisoisoiso```
+It should output:  return
+```
+2
+0
+1
+4
+25
+```
