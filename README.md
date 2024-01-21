@@ -8,8 +8,8 @@ Deadfish is a simple language that only has 4 instructions:
 
 to run the code:
 ```
-cd deadfish_interpreter/
-cargo run/
+cd deadfish_interpreter
+cargo run
 ```
 
 try running these instructions:
