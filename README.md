@@ -10,11 +10,10 @@ to run the code:
 <code>cd deadfish_interpreter</code>
 <code>cargo run</code><br>
 
-try running these instructions:<br>
+try running these instructions:
 <code>iiodddoisoisoiso</code>
 It should output:<br> 
-<code>
-2<br>
+<code>2<br>
 0<br>
 1<br>
 4<br>
