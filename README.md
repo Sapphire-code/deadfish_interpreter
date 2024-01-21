@@ -12,7 +12,7 @@ to run the code:
 
 try running these instructions:
 <code>iiodddoisoisoiso</code>
-It should output:<br> 
+<br>It should output:
 <code>2<br>
 0<br>
 1<br>
