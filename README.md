@@ -8,15 +8,15 @@
 
 to run the code:
 <code>cd deadfish_interpreter</code>
-<code>cargo run</code>
+<code>cargo run</code><br>
 
-try running these instructions:
+try running these instructions:<br>
 <code>iiodddoisoisoiso</code>
-It should output: 
+It should output:<br> 
 <code>
-2
-0
-1
-4
-25
+2<br>
+0<br>
+1<br>
+4<br>
+25<br>
 </code>
