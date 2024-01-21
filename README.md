@@ -12,9 +12,9 @@ cd deadfish_interpreter/
 cargo run/
 ```
 
-try running these instructions:<br>
+try running these instructions:
 ```iiodddoisoisoiso```
-It should output:
+<br>It should output:
 ```
 2
 0
